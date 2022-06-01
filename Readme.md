@@ -1,0 +1,1 @@
+Used for Checking for Wifi connections you have ever loggedin into. 
